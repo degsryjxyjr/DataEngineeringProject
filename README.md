@@ -24,5 +24,8 @@ Task 3. Validate Data
 Final report
 
 
+Completed 1. Extract data
+Partially completed 2. Transform data
+
 
 
