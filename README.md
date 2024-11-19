@@ -8,7 +8,7 @@ Task 2 Transform Data:
 •	Monthly Aggregates
 
 **Person 2.**
-Task 3. Validate Data
+Task 4. Load Data
 Task 2. Transform Data:
 •	Data Cleaning
 •	Wind Strength Categorization
