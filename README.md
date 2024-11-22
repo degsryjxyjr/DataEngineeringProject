@@ -2,10 +2,13 @@
 Work division:
 
 **Person 1.**
-Task 1. extract data
-Task 2 Transform Data:
-•	Feature Engineering 
-•	Monthly Aggregates
+Task 1. Extraction data
+Task 2 Transform data: 
+• Feature Engineering 
+• Daily Aggregates
+• Monthly Aggregates
+• Wind Strength Categorization
+• XCom push to next task
 
 **Person 2.**
 Task 4. Load Data
